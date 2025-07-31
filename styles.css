@@ -1,5 +1,5 @@
 body {
-    background-color: antiquewhite;
+    background-color: rgb(255, 255, 255), 255);
     font-family: Bai Jamjuree;
 }
 
@@ -18,8 +18,8 @@ margin: 1rem 1rem;
 
 
 footer {
-    background-color: cornsilk;
-    color: lawngreen;
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     position: fixed;
     bottom: 0;
     width: 100%;
