@@ -12,6 +12,7 @@ body {
     background-color: lawngreen;
     height: 20rem;
     flex-grow: 1;
+    flex-basis: calc(33% - 6rem);
 }
 
 footer {
@@ -27,4 +28,10 @@ footer {
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0.5rem;
+}
+
+.cartao__conteudo {
+    text-align: center;
+    background-color: crimson;
+    height: 100%;
 }
