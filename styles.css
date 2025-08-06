@@ -16,6 +16,7 @@ body {
 }
 
 .cartao__conteudo {
+    color: var(--text-color);
     text-align: center;
     background-color: lawngreen;
     height: 100%;
