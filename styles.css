@@ -9,7 +9,7 @@ body {
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: seashell;
+    /*background-color: seashell;*/
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
@@ -32,6 +32,6 @@ footer {
 
 .cartao__conteudo {
     text-align: center;
-    background-color: lawngreen;
+    /*background-color: lawngreen;*/
     height: 100%;
 }
