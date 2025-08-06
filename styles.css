@@ -21,6 +21,10 @@ body {
     height: 100%;
 }
 
+.cartao__conteudo h3 {
+    background-color: beige;
+}
+
 footer {
     background-color: rgb(255, 255, 255);
     color: rgb(255, 255, 255);
@@ -34,8 +38,4 @@ footer {
     text-align: center;
     font-size: 0.6rem;
     margin-top: 0.5rem;
-}
-
-.cartao__conteudo h3 {
-    background-color: ivory;
 }
