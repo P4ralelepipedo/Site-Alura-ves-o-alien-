@@ -23,6 +23,7 @@ body {
 
 .cartao__conteudo h3 {
     background-color: blue;
+    text-align: left;
 }
 
 footer {
