@@ -40,6 +40,10 @@ body {
     color: black;
 }
 
+.cartao__conteudo__resposta {
+    color: lawngreen;
+}
+
 footer {
     background-color: rgb(255, 255, 255);
     color: rgb(255, 255, 255);
