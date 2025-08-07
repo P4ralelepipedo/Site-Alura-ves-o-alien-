@@ -36,6 +36,10 @@ body {
     padding: 2rem;
 }
 
+.cartao__conteudo__pergunta {
+    color: black;
+}
+
 footer {
     background-color: rgb(255, 255, 255);
     color: rgb(255, 255, 255);
