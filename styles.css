@@ -45,25 +45,19 @@ body {
     padding: 2rem;
 }
 
-.cartao__conteudo__pergunta {
+.cartao__conteudo__pergunta p {
     color: var(--text-color);
     font-weight: 500;
 }
 
-.cartao__conteudo__resposta {
-    color: var(--card-front-color)
+.cartao__conteudo__resposta p {
+    color: var(--card-front-color);
     font-weight: 700;
 }
 
 .cartao:hover .cartao__conteudo {
     transform: rotateY(180deg);
-}
-
-
-
-
-
-
+} 
 
 footer {
     background-color: rgb(255, 255, 255);
