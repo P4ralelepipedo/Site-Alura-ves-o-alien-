@@ -46,11 +46,11 @@ body {
 }
 
 .cartao__conteudo__pergunta {
-    color: black;
+    color: var(--text-color);
 }
 
 .cartao__conteudo__resposta {
-    color: black);
+    color: var(--text-color);
 }
 
 footer {
