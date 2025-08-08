@@ -23,6 +23,7 @@ body {
 }
 
 .cartao__conteudo {
+    background-color: var(--card-front-color);
     text-align: center;
     background-color: lawngreen;
     height: 100%;
