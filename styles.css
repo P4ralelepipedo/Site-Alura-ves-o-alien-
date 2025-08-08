@@ -47,10 +47,12 @@ body {
 
 .cartao__conteudo__pergunta {
     color: var(--text-color);
+    font-weight: 500;
 }
 
 .cartao__conteudo__resposta {
     color: var(--text-color);
+    font-weight: 700;
 }
 
 footer {
