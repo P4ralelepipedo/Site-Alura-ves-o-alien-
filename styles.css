@@ -65,6 +65,9 @@ body {
 .cartao__conteudo__pergunta,
 .cartao__conteudo__resposta{
    backface-visibility: hidden;
+   position: absolute;
+   height: 100%;
+   width: 100%;
 }
 
 .cartao__conteudo__resposta{
