@@ -60,6 +60,11 @@ body {
     transform: rotateY(180deg);
 } 
 
+.cartao__conteudo__pergunta,
+.cartao__conteudo__resposta{
+   backface-visibility: hidden;
+}
+
 footer {
     background-color: rgb(255, 255, 255);
     color: rgb(255, 255, 255);
