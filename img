@@ -2,10 +2,9 @@
 
 ```css
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
-}
+    --text-color: #hsl(251, 100%, 50%);
+    --card-front-color: #e100ff;
+    --card-back-color: #00f400;
 ```
 
 > Para mais cores
