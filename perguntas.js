@@ -1,17 +1,17 @@
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Alien',
+    'O que são aliens??',
+    'Somos nozes'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Estrela',
+    'Você é uma estrela',
+    'Oloko'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Estrela',
+    'Estrela do marl',
+    'Rawr'
 )
